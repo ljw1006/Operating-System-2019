@@ -1,37 +1,15 @@
-## 欢迎来到操作系统课程主页欢迎 ━(*｀∀´*)ノ亻!
+#### 欢迎大家来到2019年信安操作系统课程主页欢迎٩( ´︶` )( ´︶` )۶
+     我们会把课程需要的资料全部上传到这个网页里，大家可以根据自己的需要下载！
 
-You can use the [editor on GitHub](https://github.com/ljw1006/Operating-System-2019/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 作业内容
 
-```markdown
-Syntax highlighted code block
+视频1：https://www.bilibili.com/video/av65339571/?spm_id_from=333.334.b_63686965665f7265636f6d6d656e64.16
 
-# Operating-System-2019
-## Header 2
-### Header 3
+### 实验内容
+### 课程相关视频
+### 课本
+### 上课幻灯片
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ljw1006/Operating-System-2019/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
