@@ -5,9 +5,9 @@
 
 
 ### 作业内容
-* [第一次作业]
-* [第二次作业]
-* [第二次作业]
+* [第一次作业](https://github.com/yankaixie13/Operating-System-2018/blob/master/Homework/Homework-1-Part%25201.rar "Title")
+* [第二次作业](https://github.com/yankaixie13/Operating-System-2018/blob/master/Homework/Honework-2.rar "Title")
+* [第二次作业](https://github.com/yankaixie13/Operating-System-2018/blob/master/Homework/homework%20summary.zip "Title")
 ### 实验内容
 ### 课程相关视频
 * [视频1下载链接](https://github.com/yankaixie13/Operating-System-2018/tree/master/Videos/Hardware%20and%20Operating%20System%20Basic/ "Title") 
