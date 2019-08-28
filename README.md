@@ -6,10 +6,12 @@ This is [an example]( https://www.bilibili.com/"b站") inline link.
 
 ### 作业内容
 
-视频1：https://www.bilibili.com/video/av65339571/?spm_id_from=333.334.b_63686965665f7265636f6d6d656e64.16
-
 ### 实验内容
 ### 课程相关视频
+This is [an example](https://github.com/yankaixie13/Operating-System-2018/tree/master/Videos/Hardware%20and%20Operating%20System%20Basic/ "Title") inline link.
+
+https://github.com/yankaixie13/Operating-System-2018/tree/master/Videos/Hardware%20and%20Operating%20System%20Basic
+
 ### 课本
 ### 上课幻灯片
 
