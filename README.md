@@ -11,6 +11,10 @@
 
 
 ### 实验内容
+* 实验工具下载
+* 实验视频
+* 14级大佬的实验报告样例
+
 
 ### 课程相关视频
 * [视频1下载链接](https://github.com/yankaixie13/Operating-System-2018/tree/master/Videos/Hardware%20and%20Operating%20System%20Basic/ "Title") 
