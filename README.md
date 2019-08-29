@@ -9,10 +9,12 @@
 
 
 ### 实验内容
-* 实验安装工具下载[链接]:(https://pan.baidu.com/s/1gRavuxQPG9IkbA9p9bjRHA "Title") 分享码：babj
+* 实验安装工具下载[链接](https://pan.baidu.com/s/1gRavuxQPG9IkbA9p9bjRHA "Title") 分享码：babj
 * 实验参考书百度云下载[链接](https://pan.baidu.com/s/1sYXX7bf7w_HFtVfU0nBxgg "Title") 分享码：9m27
-* 实验视频
-* 14级大佬的实验报告示例（瑟瑟发抖）
+* 某14级大佬的实验报告示例（瑟瑟发抖）
+* -------------我是分界线(*╹▽╹*)---------------------------------------------------------
+* 第一次实验教学视频（清华大学版）：[1](https://www.bilibili.com/video/av32411771/?p=1 "Title") [2](https://www.bilibili.com/video/av32411771/?p=2 "Title") [3](https://www.bilibili.com/video/av32411771/?p=3 "Title")
+
 
 
 ### 课程学习的相关视频
