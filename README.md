@@ -20,6 +20,27 @@
 ### 课程相关视频
 * [视频1下载链接](https://github.com/yankaixie13/Operating-System-2018/tree/master/Videos/Hardware%20and%20Operating%20System%20Basic/ "Title") 
 * [视频2下载链接](https://github.com/yankaixie13/Operating-System-2018/blob/master/Videos/Hardware%20and%20Operating%20System%20Basic/Hardware_and_Operating_System_basics_-_10_of_11.mp4 "Title")
+* [视频3下载链接](https://github.com/yankaixie13/Operating-System-2018/blob/master/Videos/Hardware%20and%20Operating%20System%20Basic/Hardware_and_Operating_System_basics_-_10_of_11.mp4 "Title")
+* [视频4下载链接](https://github.com/yankaixie13/Operating-System-2018/blob/master/Videos/Hardware%20and%20Operating%20System%20Basic/Hardware_and_Operating_System_basics_-_10_of_11.mp4 "Title")
+* [视频5下载链接](https://github.com/yankaixie13/Operating-System-2018/blob/master/Videos/Hardware%20and%20Operating%20System%20Basic/Hardware_and_Operating_System_basics_-_10_of_11.mp4 "Title")
+* [视频6下载链接](https://github.com/yankaixie13/Operating-System-2018/blob/master/Videos/Hardware%20and%20Operating%20System%20Basic/Hardware_and_Operating_System_basics_-_10_of_11.mp4 "Title")
+* [视频7下载链接](https://github.com/yankaixie13/Operating-System-2018/blob/master/Videos/Hardware%20and%20Operating%20System%20Basic/Hardware_and_Operating_System_basics_-_10_of_11.mp4 "Title")
+* [视频8下载链接](https://github.com/yankaixie13/Operating-System-2018/blob/master/Videos/Hardware%20and%20Operating%20System%20Basic/Hardware_and_Operating_System_basics_-_10_of_11.mp4 "Title")
+* [视频9下载链接](https://github.com/yankaixie13/Operating-System-2018/blob/master/Videos/Hardware%20and%20Operating%20System%20Basic/Hardware_and_Operating_System_basics_-_10_of_11.mp4 "Title")
+* [视频10下载链接](https://github.com/yankaixie13/Operating-System-2018/blob/master/Videos/Hardware%20and%20Operating%20System%20Basic/Hardware_and_Operating_System_basics_-_10_of_11.mp4 "Title")
+* [视频11下载链接](https://github.com/yankaixie13/Operating-System-2018/blob/master/Videos/Hardware%20and%20Operating%20System%20Basic/Hardware_and_Operating_System_basics_-_10_of_11.mp4 "Title")
+-----------------------我是分界线--------------------------------------------------
+* [B站学习链接-视频1]
+* [B站学习链接-视频2]
+* [B站学习链接-视频3]
+* [B站学习链接-视频4]
+* [B站学习链接-视频5]
+* [B站学习链接-视频6]
+* [B站学习链接-视频7]
+* [B站学习链接-视频8]
+* [B站学习链接-视频9]
+* [B站学习链接-视频10]
+* [B站学习链接-视频11]
 
 ### 课程参考书
 
