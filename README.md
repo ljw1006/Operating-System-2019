@@ -12,6 +12,7 @@
 
 ### 实验内容
 * 实验工具下载
+* 实验参考书百度云下载[链接](https://pan.baidu.com/s/1sYXX7bf7w_HFtVfU0nBxgg "Title") 密码：9m27
 * 实验视频
 * 14级大佬的实验报告示例（瑟瑟发抖）
 
