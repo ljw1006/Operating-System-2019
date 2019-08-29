@@ -12,13 +12,17 @@
 * 实验安装工具下载[链接](https://pan.baidu.com/s/1gRavuxQPG9IkbA9p9bjRHA "Title") 分享码：babj
 * 实验参考书百度云下载[链接](https://pan.baidu.com/s/1sYXX7bf7w_HFtVfU0nBxgg "Title") 分享码：9m27
 * 某14级大佬的实验报告示例（瑟瑟发抖）
+
 * -------------我是分界线(*╹▽╹*)---------------------------------------------------------
+
 * 第一次实验教学视频：[第一部分](https://www.bilibili.com/video/av32411771/?p=1 "Title") [第二部分](https://www.bilibili.com/video/av32411771/?p=2 "Title") [第三部分](https://www.bilibili.com/video/av32411771/?p=3 "Title")
 * 第二次实验教学视频：[第一部分](https://www.bilibili.com/video/av32411771/?p=4 "Title") [第二部分](https://www.bilibili.com/video/av32411771/?p=5 "Title") [第三部分](https://www.bilibili.com/video/av32411771/?p=6 "Title") [第四部分](https://www.bilibili.com/video/av32411771/?p=7 "Title") [第五部分](https://www.bilibili.com/video/av32411771/?p=8 "Title") [第六部分](https://www.bilibili.com/video/av32411771/?p=9 "Title")
+* 第三次实验教学视频：[第一部分](https://www.bilibili.com/video/av32411771/?p=10 "Title") [第二部分](https://www.bilibili.com/video/av32411771/?p=11 "Title") [第三部分](https://www.bilibili.com/video/av32411771/?p=12 "Title")
+* 第四次实验教学视频：[第一部分](https://www.bilibili.com/video/av32411771/?p=13 "Title") [第二部分](https://www.bilibili.com/video/av32411771/?p=14 "Title") [第三部分](https://www.bilibili.com/video/av32411771/?p=15 "Title")
 
 
 
-### 课程学习的相关视频
+### 操作系统经典课程视频
 * [视频1下载链接](https://github.com/yankaixie13/Operating-System-2018/tree/master/Videos/Hardware%20and%20Operating%20System%20Basic/ "Title") 
 * [视频2下载链接](https://github.com/yankaixie13/Operating-System-2018/blob/master/Videos/Hardware%20and%20Operating%20System%20Basic/Hardware_and_Operating_System_basics_-_10_of_11.mp4 "Title")
 * [视频3下载链接](https://github.com/yankaixie13/Operating-System-2018/blob/master/Videos/Hardware%20and%20Operating%20System%20Basic/Hardware_and_Operating_System_basics_-_10_of_11.mp4 "Title")
