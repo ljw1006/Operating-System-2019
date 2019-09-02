@@ -53,4 +53,7 @@
 
 ### 上课幻灯片
 * [01-Overview](https://github.com/ljw1006/Operating-System-2019/blob/master/Lecture%20Slides/01-Overview.7z "Title")
+* [02-OS Intro](https://github.com/ljw1006/Operating-System-2019/blob/master/Lecture%20Slides/02-OS%20Intro.7z "Title")
+* [03-HardwareSupport](https://github.com/ljw1006/Operating-System-2019/blob/master/Lecture%20Slides/03-HardwareSupport.7z "Title")
+* [04-Process Concep](https://github.com/ljw1006/Operating-System-2019/blob/master/Lecture%20Slides/04-Process%20Concept.7z "Title")
 
