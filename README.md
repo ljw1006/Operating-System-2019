@@ -4,13 +4,13 @@
 
 
 
-### 作业答案
+### 作业答案o(ﾟДﾟ)っ！
 * 待更新~
 
 
 
 
-### 实验内容
+### 实验内容(｡◕ˇ∀ˇ◕)
 
 * 虚拟机安装工具下载[链接](https://pan.baidu.com/s/1gRavuxQPG9IkbA9p9bjRHA "Title") 分享码：babj
 * 实验参考书百度云下载[链接](https://pan.baidu.com/s/1sYXX7bf7w_HFtVfU0nBxgg "Title") 分享码：9m27
@@ -26,7 +26,7 @@
 
 
 
-### 操作系统经典课程视频
+### 操作系统经典课程视频(｡･ω･｡)
 
 * [视频1下载链接](https://github.com/yankaixie13/Operating-System-2018/tree/master/Videos/Hardware%20and%20Operating%20System%20Basic/ "Title") 
 * [视频2下载链接](https://github.com/yankaixie13/Operating-System-2018/blob/master/Videos/Hardware%20and%20Operating%20System%20Basic/Hardware_and_Operating_System_basics_-_10_of_11.mp4 "Title")
@@ -57,7 +57,7 @@
 
 
 
-### 课程参考书
+### 课程参考书ಠᴗಠ 
 
 * 各位同学可以通过百度网盘下载工具书，[下载链接](https://pan.baidu.com/s/1xk8Rz99kL6xwGwGHe38xog "Title") 分享码：mqli
 
@@ -65,7 +65,7 @@
 
 
 
-### 课程幻灯片
+### 课程幻灯片(˘•ω•˘)
 
 * [01-Overview](https://github.com/ljw1006/Operating-System-2019/blob/master/Lecture%20Slides/01-Overview.7z "Title")
 * [02-OS Intro](https://github.com/ljw1006/Operating-System-2019/blob/master/Lecture%20Slides/02-OS%20Intro.7z "Title")
