@@ -51,9 +51,19 @@
 
 各位同学可以通过百度网盘下载工具书，[下载链接](https://pan.baidu.com/s/1f_LuPcrDBa5g1DmjPA6OWw "Title") 分享码：h3pr
 
-### 上课幻灯片
+### 课程幻灯片
 * [01-Overview](https://github.com/ljw1006/Operating-System-2019/blob/master/Lecture%20Slides/01-Overview.7z "Title")
 * [02-OS Intro](https://github.com/ljw1006/Operating-System-2019/blob/master/Lecture%20Slides/02-OS%20Intro.7z "Title")
 * [03-HardwareSupport](https://github.com/ljw1006/Operating-System-2019/blob/master/Lecture%20Slides/03-HardwareSupport.7z "Title")
-* [04-Process Concep](https://github.com/ljw1006/Operating-System-2019/blob/master/Lecture%20Slides/04-Process%20Concept.7z "Title")
+* [04-Process Concept](https://github.com/ljw1006/Operating-System-2019/blob/master/Lecture%20Slides/04-Process%20Concept.7z "Title")
+* [05-Thread & IPC](https://github.com/ljw1006/Operating-System-2019/blob/master/Lecture%20Slides/05-Thread%20%26%20IPC.7z "Title")
+* [06-Process Schedule](https://github.com/ljw1006/Operating-System-2019/blob/master/Lecture%20Slides/06-Process%20Schedule.7z "Title")
+* [07-Mutual Exclusion](https://github.com/ljw1006/Operating-System-2019/blob/master/Lecture%20Slides/07-Mutual%20Exclusion.7z "Title")
+* [08-Synchronization](https://github.com/ljw1006/Operating-System-2019/blob/master/Lecture%20Slides/08-Synchronization.7z "Title")
+* [09-Deadlock](https://github.com/ljw1006/Operating-System-2019/blob/master/Lecture%20Slides/09-Deadlock.7z "Title")
+* [10-Real Memory](https://github.com/ljw1006/Operating-System-2019/blob/master/Lecture%20Slides/10-Real%20Memory.7z "Title")
+* [11-Virtual Memory](https://github.com/ljw1006/Operating-System-2019/blob/master/Lecture%20Slides/11-Virtual%20Memory.7z "Title")
+* [12-IO](https://github.com/ljw1006/Operating-System-2019/blob/master/Lecture%20Slides/12-IO.7z "Title")
+* [13-File](https://github.com/ljw1006/Operating-System-2019/blob/master/Lecture%20Slides/13-File.7z "Title")
+
 
