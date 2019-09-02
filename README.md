@@ -52,4 +52,5 @@
 各位同学可以通过百度网盘下载工具书，[下载链接](https://pan.baidu.com/s/1f_LuPcrDBa5g1DmjPA6OWw "Title") 分享码：h3pr
 
 ### 上课幻灯片
+* [01-Overview](https://github.com/ljw1006/Operating-System-2019/blob/master/Lecture%20Slides/01-Overview.7z "Title")
 
