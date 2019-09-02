@@ -1,16 +1,16 @@
-# 欢迎大家来到2019年信息安全的操作系统课程主页(Θ３Θ)
-###    我们会把课程需要的资料全部上传到这个网页里，大家可以根据自己的需求下载！
+#      欢迎大家来到2019年信息安全的操作系统课程主页(￣▽￣)／
+###    我们会把课程需要的资料全部放到这个网页里，大家可以根据自己的需求下载！
 
 
 
 
-### 作业答案o(ﾟДﾟ)っ！
+### 作业答案(≧ω≦)/
 * 待更新~
 
 
 
 
-### 实验内容(｡◕ˇ∀ˇ◕)
+### 实验内容Ｏ(≧▽≦)Ｏ
 
 * 虚拟机安装工具下载[链接](https://pan.baidu.com/s/1gRavuxQPG9IkbA9p9bjRHA "Title") 分享码：babj
 * 实验参考书百度云下载[链接](https://pan.baidu.com/s/1sYXX7bf7w_HFtVfU0nBxgg "Title") 分享码：9m27
@@ -65,7 +65,7 @@
 
 
 
-### 课程幻灯片(˘•ω•˘)
+### 课程幻灯片(*´・ｖ・)
 
 * [01-Overview](https://github.com/ljw1006/Operating-System-2019/blob/master/Lecture%20Slides/01-Overview.7z "Title")
 * [02-OS Intro](https://github.com/ljw1006/Operating-System-2019/blob/master/Lecture%20Slides/02-OS%20Intro.7z "Title")
