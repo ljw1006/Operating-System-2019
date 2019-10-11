@@ -59,7 +59,8 @@
 
 ### 课程参考书ಠᴗಠ 
 
-* 各位同学可以通过百度网盘下载工具书，[下载链接](https://pan.baidu.com/s/1xk8Rz99kL6xwGwGHe38xog "Title") 分享码：mqli
+* 各位同学可以通过百度网盘下载工具书，[下载链接]( https://pan.baidu.com/s/1WuxQQIzvXo_aaq_tMGuRPA "Title") 分享码：strv
+
 
 
 
