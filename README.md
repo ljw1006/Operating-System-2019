@@ -4,8 +4,10 @@
 
 
 ### 作业答案(≧ω≦)/
-* 待更新~
-
+* 作业答案1下载[链接](https://github.com/ljw1006/Operating-System-2019/blob/master/Homework/Homework-1-Part%25201.rar "Title")
+* 作业答案2下载[链接](https://github.com/ljw1006/Operating-System-2019/blob/master/Homework/Homwork-1.rar "Title")
+* 作业答案3下载[链接](https://github.com/ljw1006/Operating-System-2019/blob/master/Homework/Honework-2.rar "Title")
+* 作业答案4下载[链接](https://github.com/ljw1006/Operating-System-2019/blob/master/Homework/homework%20summary.zip "Title")
 
 
 
